@@ -18,6 +18,7 @@ selenide (selenium). Пока присутствует клиент для TestR
 - PostgresqlDatabaseClient - класс для выполнения запросов в БД postgresql
 - HttpClient - класс (singleton) для выполнения http запросов
 - TestRailClient - класс, реализующий методы для взаимодействия с TMS TestRail
+- CustomerGenerator - класс, позволяющий генерировать рандомные пользовательские данные (фио, адрес, телефон и email)
 
 ## Планы
 - Добавить клиента для работы с Kafka
